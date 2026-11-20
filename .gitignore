@@ -1,0 +1,13 @@
+# Secrets: never commit these
+.env
+# The Aura credentials file
+Neo4j-*.txt
+
+# Node
+node/node_modules/
+
+# Go
+go/job-skill-graph
+
+# macOS
+.DS_Store

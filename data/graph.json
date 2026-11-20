@@ -1,0 +1,96 @@
+{
+  "person": {
+    "name": "Yaldar",
+    "skills": [
+      { "name": "TypeScript", "level": "good" },
+      { "name": "JavaScript", "level": "good" },
+      { "name": "Node.js", "level": "good" },
+      { "name": "Express", "level": "good" },
+      { "name": "React", "level": "good" },
+      { "name": "Redux", "level": "good" },
+      { "name": "Vue.js", "level": "good" },
+      { "name": "CSS", "level": "good" },
+      { "name": "C#", "level": "good" },
+      { "name": "ASP.NET Core", "level": "good" },
+      { "name": "Java", "level": "good" },
+      { "name": "REST APIs", "level": "good" },
+      { "name": "PostgreSQL", "level": "good" },
+      { "name": "MongoDB", "level": "good" },
+      { "name": "Docker", "level": "good" },
+      { "name": "Git", "level": "good" },
+      { "name": "Azure", "level": "good" },
+      { "name": "Automated testing", "level": "good" },
+      { "name": "Python", "level": "basic" },
+      { "name": "Go", "level": "basic" },
+      { "name": "Kotlin", "level": "basic" },
+      { "name": "Elixir", "level": "basic" }
+    ]
+  },
+  "jobs": [
+    {
+      "id": "neo4j-aura-instances",
+      "title": "Software Engineer, Aura Instances",
+      "company": "Neo4j",
+      "source": "Real job ad (Nov 2026). The ad asks for strong Python OR Go, and both are used.",
+      "requires": [
+        { "skill": "Python", "importance": "must" },
+        { "skill": "Go", "importance": "must" },
+        { "skill": "Kubernetes", "importance": "must" },
+        { "skill": "TypeScript", "importance": "must" },
+        { "skill": "JavaScript", "importance": "must" },
+        { "skill": "REST APIs", "importance": "must" },
+        { "skill": "Automated testing", "importance": "must" },
+        { "skill": "Async processing", "importance": "nice" },
+        { "skill": "React", "importance": "nice" },
+        { "skill": "Docker", "importance": "nice" },
+        { "skill": "GCP", "importance": "nice" },
+        { "skill": "AWS", "importance": "nice" },
+        { "skill": "Azure", "importance": "nice" }
+      ]
+    },
+    {
+      "id": "sample-backend-node",
+      "title": "Backend Developer (Node.js)",
+      "company": "Example Bank AB",
+      "source": "Sample data, not a real job",
+      "requires": [
+        { "skill": "Node.js", "importance": "must" },
+        { "skill": "TypeScript", "importance": "must" },
+        { "skill": "PostgreSQL", "importance": "must" },
+        { "skill": "REST APIs", "importance": "must" },
+        { "skill": "Automated testing", "importance": "must" },
+        { "skill": "Async processing", "importance": "nice" },
+        { "skill": "Docker", "importance": "nice" },
+        { "skill": "AWS", "importance": "nice" }
+      ]
+    },
+    {
+      "id": "sample-frontend-react",
+      "title": "Frontend Developer (React)",
+      "company": "Example Shop AB",
+      "source": "Sample data, not a real job",
+      "requires": [
+        { "skill": "React", "importance": "must" },
+        { "skill": "TypeScript", "importance": "must" },
+        { "skill": "CSS", "importance": "must" },
+        { "skill": "Automated testing", "importance": "must" },
+        { "skill": "Redux", "importance": "nice" },
+        { "skill": "Node.js", "importance": "nice" }
+      ]
+    },
+    {
+      "id": "sample-platform-go",
+      "title": "Platform Engineer (Go)",
+      "company": "Example Cloud AB",
+      "source": "Sample data, not a real job",
+      "requires": [
+        { "skill": "Go", "importance": "must" },
+        { "skill": "Kubernetes", "importance": "must" },
+        { "skill": "Docker", "importance": "must" },
+        { "skill": "GCP", "importance": "must" },
+        { "skill": "Python", "importance": "nice" },
+        { "skill": "Terraform", "importance": "nice" }
+      ]
+    }
+  ]
+}
