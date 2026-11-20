@@ -159,4 +159,4 @@ Use `aura-cli --help` to see the other commands.
 - Give "must" skills more weight than "nice" skills in the match score.
 
 
-![Graph](docs/graph.png)
+![Neo4j job vs my skills](docs/graph.jpg)
